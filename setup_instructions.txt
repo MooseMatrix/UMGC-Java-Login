@@ -1,0 +1,14 @@
+Ensure JavaFX is installed on your IDE of choice. 
+
+Step 1: install SDK for your system
+
+https://gluonhq.com/products/javafx/
+
+Step 2: Install the IDE JavaFX tool
+  for example:
+  - Eclispe IDE navigate to -> Help -> Eclipse Market Place -> e(fx)clipse <version>
+
+Step 3: configure build path and SDK
+  I recommend this video for a simple walkthrough -->  https://youtu.be/nz8P528uGjk?si=rT3gr-Pw23DHWeZq
+
+Step 4: run the applicaiton
